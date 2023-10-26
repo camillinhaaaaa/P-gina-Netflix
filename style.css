@@ -1,0 +1,26 @@
+body {background-color: rgb(214, 12, 130);
+}
+h1 {font-size: 600%;
+text-align: center;
+color: black;
+}
+#i1 {margin-left: 0%;
+border-width: 0%;
+border-color: rgb(197, 8, 8);
+}
+h2 {font-size: 160%;
+text-align: center;
+color: rgb(202, 189, 173);
+}
+#i2 {margin-left: 10%;
+border-width: 20%;
+border-color: rgb(65, 65, 170);
+}
+h3 {font-size: 160%;
+text-align: center;
+color: beige;
+}
+#i3 {margin-left: 10%;
+border-width:20% ;
+border-color: rgb(122, 3, 233);
+}
